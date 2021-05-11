@@ -1895,6 +1895,11 @@
             "source": "https://press.contentful.com/media_kits"
         },
         {
+            "title": "Continuous Machine Learning",
+            "hex": "945DD6",
+            "source": "https://static.iterative.ai/logo/cml.svg"
+        },
+        {
             "title": "Convertio",
             "hex": "FF3333",
             "source": "https://convertio.co/"
@@ -2436,6 +2441,11 @@
             "title": "Duolingo",
             "hex": "58CC02",
             "source": "https://www.duolingo.com/"
+        },
+        {
+            "title": "DVC Studio",
+            "hex": "945DD6",
+            "source": "https://static.iterative.ai/logo/viewer.svg"
         },
         {
             "title": "dwm",
@@ -4312,6 +4322,11 @@
             "hex": "FA5C5C",
             "source": "https://itch.io/press-kit",
             "guidelines": "https://itch.io/press-kit"
+        },
+        {
+            "title": "Iterative",
+            "hex": "945DD6",
+            "source": "https://static.iterative.ai/logo/enterprise.svg"
         },
         {
             "title": "iTunes",
