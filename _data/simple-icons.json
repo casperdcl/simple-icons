@@ -1896,6 +1896,11 @@
         },
         {
             "title": "Continuous Machine Learning",
+            "aliases": {
+                "aka": [
+                    "CML"
+                ]
+            },
             "hex": "945DD6",
             "source": "https://static.iterative.ai/logo/cml.svg"
         },
@@ -2103,6 +2108,11 @@
         },
         {
             "title": "Data Version Control",
+            "aliases": {
+                "aka": [
+                    "DVC"
+                ]
+            },
             "hex": "945DD6",
             "source": "https://static.iterative.ai/logo/dvc.svg"
         },
